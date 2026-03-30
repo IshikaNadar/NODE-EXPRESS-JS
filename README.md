@@ -21,7 +21,7 @@ I explored backend fundamentals, API development, and practical workflows with E
 <img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/ebd9f62b-04a3-409b-9738-8306af871032" />
 
 ## 📂 Project Structure
-project-folder/ │── index.js │── package.json │── routes/ │── public/ │── README.md
+project-folder/ │── index.js │── package.json │── public/ │── README.md
 
 ### Tags
 #NodeJS #ExpressJS #ApnaCollege  #BackendDevelopment #LearningJourney 
